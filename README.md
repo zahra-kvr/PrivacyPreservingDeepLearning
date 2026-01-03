@@ -1,0 +1,1 @@
+Encrypted CNN using TenSEAL for MNIST classification with approximate ReLU activations. Includes training, evaluation, and encrypted inference with class-wise accuracy reporting.
